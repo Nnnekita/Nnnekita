@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Nnnekita&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Fullstack-разработчик%20%26%20Преподаватель&descSize=18&descColor=8b949e&descAlignY=55" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=160&section=header&text=Nnnekita&fontSize=48&fontColor=0d1117&animation=fadeIn&fontAlignY=30&desc=Fullstack-разработчик%20%26%20Преподаватель&descSize=18&descColor=57606a&descAlignY=55" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Nnnekita&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Fullstack-разработчик%20%26%20Преподаватель&descSize=18&descColor=8b949e&descAlignY=55" alt="Nnnekita Banner" />
-</picture>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&background=1E1E1E&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Nnnekita;Fullstack+Developer+%26+Teacher" alt="Typing SVG"/>
+</div>
 
 <div align="center">
   <h3>Fullstack-разработчик & Преподаватель</h3>
