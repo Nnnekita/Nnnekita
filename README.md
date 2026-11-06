@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1E1E1E&height=120&section=header&text=Nnnekita&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E6E6E6&height=120&section=header&text=Nnnekita&fontSize=40&fontColor=1E1E1E&animation=fadeIn&fontAlignY=35" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E1E1E&height=120&section=header&text=Nnnekita&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Nnnekita&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Fullstack-разработчик%20%26%20Преподаватель&descSize=18&descColor=8b949e&descAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=160&section=header&text=Nnnekita&fontSize=48&fontColor=0d1117&animation=fadeIn&fontAlignY=30&desc=Fullstack-разработчик%20%26%20Преподаватель&descSize=18&descColor=57606a&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Nnnekita&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Fullstack-разработчик%20%26%20Преподаватель&descSize=18&descColor=8b949e&descAlignY=55" alt="Nnnekita Banner" />
 </picture>
 
 <div align="center">
