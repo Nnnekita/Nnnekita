@@ -1,86 +1,90 @@
-# Привет, я Nnnekita 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=1E1E1E&height=120&section=header&text=Nnnekita&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E6E6E6&height=120&section=header&text=Nnnekita&fontSize=40&fontColor=1E1E1E&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E1E1E&height=120&section=header&text=Nnnekita&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Banner" />
+</picture>
 
-Frontend-разработчик с опытом создания адаптивных лендингов, веб-приложений и CRM-систем. Люблю чистый код, современный дизайн и автоматизацию.
+<div align="center">
+  <h3>Fullstack-разработчик & Преподаватель</h3>
+  <p>Превращаю идеи в работающие веб-приложения и помогаю студентам делать первые шаги в IT через реальные проекты.</p>
+  
+  [![Website](https://img.shields.io/badge/🌐_Личный_сайт-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nnnekita.github.io/My_Lending/)
+</div>
 
 ---
 
-## 🛠 Стек
+## 📐 Обо мне
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0A74DA?style=for-the-badge&logoColor=white)
+- 💻 **Опыт:** 4 года в коммерческой и pet-разработке, 2 года преподавания и менторства.
+- 🚀 **Специализация:** Создание адаптивных лендингов, многостраничных сайтов и полноценных веб-приложений.
+- 🎯 **Подход:** Чистая архитектура, переиспользуемые компоненты и структурированный код, который легко поддерживать.
+
+---
+
+## 🛠 Стек технологий
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1E1E1E?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E1E1E?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-1E1E1E?style=flat-square&logo=vite&logoColor=646CFF)
+![SCSS](https://img.shields.io/badge/SCSS-1E1E1E?style=flat-square&logo=sass&logoColor=CC6699)
+
+**Backend & Базы данных:**
+![PHP](https://img.shields.io/badge/PHP-1E1E1E?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-1E1E1E?style=flat-square&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**Инструменты:**
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
 ## 📂 Избранные проекты
 
-### 🛒 Neon Store — Мини магазин
-> Интернет-магазин в стиле synthwave на React
-- Каталог товаров, фильтрация по категориям
-- Корзина с боковой панелью, изменение количества
-
-[Репозиторий](https://github.com/Nnnekita/mini-ecommerce) • [Демо](https://nnnekita.github.io/mini-ecommerce/)
-
-### 🌤️ Прогноз погоды
-> Приложение погоды на React с Open-Meteo API
-- Поиск городов, текущая погода, прогноз на 5 дней
-- Без API-ключа, бесплатный сервис
-
-[Репозиторий](https://github.com/Nnnekita/weather-app) • [Демо](https://nnnekita.github.io/weather-app/)
-
-### ✅ Список задач
-> Task-менеджер на React с localStorage
-- CRUD задач, фильтрация, сохранение данных
-- Synthwave дизайн, адаптивная вёрстка
-
-[Репозиторий](https://github.com/Nnnekita/react-todo-app) • [Демо](https://nnnekita.github.io/react-todo-app/)
-
-### 🏢 SynthWave CRM Dashboard
-> Панель управления для бизнеса на Laravel 11 в стиле Synthwave
-- Ролевая система, CRUD пользователей/товаров/заказов
-- Кастомная пагинация, лог активности, аутентификация
-
-[Репозиторий](https://github.com/Nnnekita/CRM-Dashboard-for-busines-laravel)
-
-### 💅 MNails — Маникюрная студия
-> Современный лендинг с Vite, SCSS и анимациями
-- IntersectionObserver, плавный скролл, мобильное меню
-- Форма записи с выбором временного слота
-
-[Репозиторий](https://github.com/Nnnekita/nails-studio-sample) • [Демо](https://nnnekita.github.io/nails-studio-sample/)
-
-### 🪑 Furniture Landing
-> Адаптивный лендинг для мебельной компании
-
-[Репозиторий](https://github.com/Nnnekita/furniture-landing-sample)
-
-### 💇‍♀️ Beauty Salon
-> Лендинг салона красоты с анимациями
-
-[Репозиторий](https://github.com/Nnnekita/beauty-salon-sample)
-
-### 🎮 Neon Tic-Tac-Toe
-> Мини-игра на чистом HTML/CSS/JS в стиле synthwave
-
-[Репозиторий](https://github.com/Nnnekita/neon-mini-web-game)
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+| 🌐 **[My Lending](https://github.com/Nnnekita/My_Lending)** | Персональный сайт-портфолио. Адаптивная верстка, современный UI и чистая структура. | HTML, CSS, JS |
+| 💅 **[MNails Studio](https://github.com/Nnnekita/nails-studio-sample)** | Лендинг для бизнеса. Плавные анимации, мобильное меню, работа с формами. | SCSS, Vite, JS |
+| 📝 **[Guestbook PHP](https://github.com/Nnnekita/guestbook_php)** | Классическое fullstack-приложение. CRUD-операции, работа с БД и сессиями. | PHP, MySQL |
+| 🎮 **[Neon Mini Game](https://github.com/Nnnekita/neon-mini-web-game)** | Интерактивная мини-игра. Работа с DOM, состоянием и CSS-анимациями. | HTML, CSS, JS |
 
 ---
 
-## 📬 Контакты
+## 📊 Активность и статистика
 
-- **Telegram:** [@KeepYM](https://t.me/KeepYM)
-- **Email:** kosmit.play@mail.ru
-- **VK:** [vk.com/nnnekita](https://vk.com/nnnekita)
+<p align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nnnekita&theme=react-dark&hide_border=true&bg_color=00000000&color=8B949E&line=007ACC&point=FFFFFF" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Nnnekita&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=007ACC&text_color=8B949E&bg_color=00000000" width="45%" alt="GitHub Stats" />
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nnnekita&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8B949E&bg_color=00000000" width="45%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nnnekita&theme=transparent&hide_border=true&stroke=FFFFFF&fire=007ACC&ring=007ACC&sideLabels=FFFFFF&dates=8B949E" width="45%" alt="Streak Stats" />
+</p>
 
 ---
 
-> 🎯 Focusing on frontend development & clean UI
+## 📬 Связаться со мной
+
+- 🌐 **Сайт:** [nnnekita.github.io/My_Lending](https://nnnekita.github.io/My_Lending/)
+- ✈️ **Telegram:** [@KeepYM](https://t.me/KeepYM)
+- 📧 **Email:** [kosmit.play@mail.ru](mailto:kosmit.play@mail.ru)
+- 💬 **VK:** [vk.com/nnnekita](https://vk.com/nnnekita)
+
+---
+
+<div align="center">
+  <p><em>Открыт для обсуждения fullstack-проектов, фриланса и менторства.</em></p>
+</div>
